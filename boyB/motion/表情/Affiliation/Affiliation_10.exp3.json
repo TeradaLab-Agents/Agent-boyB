@@ -1,0 +1,42 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.13,
+	"FadeOutTime": 0.13,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen_Happy3",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Happy3",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Happy4",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Happy4",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Happy3",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthWrinkle",
+			"Value": 0.744,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Happy",
+			"Value": 0.551,
+			"Blend": "Add"
+		}
+	]
+}

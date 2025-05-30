@@ -1,0 +1,121 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "BoyB.moc3",
+		"Textures": [
+			"BoyB.8192/texture_00.png"
+		],
+		"Physics": "BoyB.physics3.json",
+		"DisplayInfo": "BoyB.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Mouth_A",
+				"File": "../../motion/リップシンク/Mouth_A.exp3.json"
+			},
+			{
+				"Name": "Mouth_E",
+				"File": "../../motion/リップシンク/Mouth_E.exp3.json"
+			},
+			{
+				"Name": "Mouth_Frown",
+				"File": "../../motion/リップシンク/Mouth_Frown.exp3.json"
+			},
+			{
+				"Name": "Mouth_I",
+				"File": "../../motion/リップシンク/Mouth_I.exp3.json"
+			},
+			{
+				"Name": "Mouth_O",
+				"File": "../../motion/リップシンク/Mouth_O.exp3.json"
+			},
+			{
+				"Name": "Mouth_Smile",
+				"File": "../../motion/リップシンク/Mouth_Smile.exp3.json"
+			},
+			{
+				"Name": "Mouth_U",
+				"File": "../../motion/リップシンク/Mouth_U.exp3.json"
+			},
+			{
+				"Name": "Center",
+				"File": "../../motion/視線誘導/Center.exp3.json"
+			},
+			{
+				"Name": "Down",
+				"File": "../../motion/視線誘導/Down.exp3.json"
+			},
+			{
+				"Name": "Left",
+				"File": "../../motion/視線誘導/Left.exp3.json"
+			},
+			{
+				"Name": "LeftDown",
+				"File": "../../motion/視線誘導/LeftDown.exp3.json"
+			},
+			{
+				"Name": "LeftUp",
+				"File": "../../motion/視線誘導/LeftUp.exp3.json"
+			},
+			{
+				"Name": "Right",
+				"File": "../../motion/視線誘導/Right.exp3.json"
+			},
+			{
+				"Name": "RightDown",
+				"File": "../../motion/視線誘導/RightDown.exp3.json"
+			},
+			{
+				"Name": "RightUp",
+				"File": "../../motion/視線誘導/RightUp.exp3.json"
+			},
+			{
+				"Name": "Up",
+				"File": "../../motion/視線誘導/Up.exp3.json"
+			},
+			{
+				"Name": "Anger_10",
+				"File": "../../motion/表情/Anger_10.exp3.json"
+			},
+			{
+				"Name": "Disgust_10",
+				"File": "../../motion/表情/Disgust_10.exp3.json"
+			},
+			{
+				"Name": "Fear_10",
+				"File": "../../motion/表情/Fear_10.exp3.json"
+			},
+			{
+				"Name": "Joy_10",
+				"File": "../../motion/表情/Joy_10.exp3.json"
+			},
+			{
+				"Name": "Regret_10",
+				"File": "../../motion/表情/Regret_10.exp3.json"
+			},
+			{
+				"Name": "Sad_10",
+				"File": "../../motion/表情/Sad_10.exp3.json"
+			},
+			{
+				"Name": "Surprised_10",
+				"File": "../../motion/表情/Surprised_10.exp3.json"
+			},
+			{
+				"Name": "EyeClosed",
+				"File": "../../motion/目の開閉/EyeClosed.exp3.json"
+			},
+			{
+				"Name": "EyeOpen",
+				"File": "../../motion/目の開閉/EyeOpen.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,380 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "BoyB_1.moc3",
+		"Textures": [
+			"BoyB_1.8192/texture_00.png"
+		],
+		"Physics": "BoyB_1.physics3.json",
+		"DisplayInfo": "BoyB_1.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Anger_01",
+				"File": "../../motion/表情/Anger/Anger_01.exp3.json"
+			},
+			{
+				"Name": "Anger_02",
+				"File": "../../motion/表情/Anger/Anger_02.exp3.json"
+			},
+			{
+				"Name": "Anger_03",
+				"File": "../../motion/表情/Anger/Anger_03.exp3.json"
+			},
+			{
+				"Name": "Anger_04",
+				"File": "../../motion/表情/Anger/Anger_04.exp3.json"
+			},
+			{
+				"Name": "Anger_05",
+				"File": "../../motion/表情/Anger/Anger_05.exp3.json"
+			},
+			{
+				"Name": "Anger_06",
+				"File": "../../motion/表情/Anger/Anger_06.exp3.json"
+			},
+			{
+				"Name": "Anger_07",
+				"File": "../../motion/表情/Anger/Anger_07.exp3.json"
+			},
+			{
+				"Name": "Anger_08",
+				"File": "../../motion/表情/Anger/Anger_08.exp3.json"
+			},
+			{
+				"Name": "Anger_09",
+				"File": "../../motion/表情/Anger/Anger_09.exp3.json"
+			},
+			{
+				"Name": "Anger_10",
+				"File": "../../motion/表情/Anger/Anger_10.exp3.json"
+			},
+			{
+				"Name": "Disgust_01",
+				"File": "../../motion/表情/Disgust/Disgust_01.exp3.json"
+			},
+			{
+				"Name": "Disgust_02",
+				"File": "../../motion/表情/Disgust/Disgust_02.exp3.json"
+			},
+			{
+				"Name": "Disgust_03",
+				"File": "../../motion/表情/Disgust/Disgust_03.exp3.json"
+			},
+			{
+				"Name": "Disgust_04",
+				"File": "../../motion/表情/Disgust/Disgust_04.exp3.json"
+			},
+			{
+				"Name": "Disgust_05",
+				"File": "../../motion/表情/Disgust/Disgust_05.exp3.json"
+			},
+			{
+				"Name": "Disgust_06",
+				"File": "../../motion/表情/Disgust/Disgust_06.exp3.json"
+			},
+			{
+				"Name": "Disgust_07",
+				"File": "../../motion/表情/Disgust/Disgust_07.exp3.json"
+			},
+			{
+				"Name": "Disgust_08",
+				"File": "../../motion/表情/Disgust/Disgust_08.exp3.json"
+			},
+			{
+				"Name": "Disgust_09",
+				"File": "../../motion/表情/Disgust/Disgust_09.exp3.json"
+			},
+			{
+				"Name": "Disgust_10",
+				"File": "../../motion/表情/Disgust/Disgust_10.exp3.json"
+			},
+			{
+				"Name": "Fear_01",
+				"File": "../../motion/表情/Fear/Fear_01.exp3.json"
+			},
+			{
+				"Name": "Fear_02",
+				"File": "../../motion/表情/Fear/Fear_02.exp3.json"
+			},
+			{
+				"Name": "Fear_03",
+				"File": "../../motion/表情/Fear/Fear_03.exp3.json"
+			},
+			{
+				"Name": "Fear_04",
+				"File": "../../motion/表情/Fear/Fear_04.exp3.json"
+			},
+			{
+				"Name": "Fear_05",
+				"File": "../../motion/表情/Fear/Fear_05.exp3.json"
+			},
+			{
+				"Name": "Fear_06",
+				"File": "../../motion/表情/Fear/Fear_06.exp3.json"
+			},
+			{
+				"Name": "Fear_07",
+				"File": "../../motion/表情/Fear/Fear_07.exp3.json"
+			},
+			{
+				"Name": "Fear_08",
+				"File": "../../motion/表情/Fear/Fear_08.exp3.json"
+			},
+			{
+				"Name": "Fear_09",
+				"File": "../../motion/表情/Fear/Fear_09.exp3.json"
+			},
+			{
+				"Name": "Fear_10",
+				"File": "../../motion/表情/Fear/Fear_10.exp3.json"
+			},
+			{
+				"Name": "Joy_01",
+				"File": "../../motion/表情/Joy/Joy_01.exp3.json"
+			},
+			{
+				"Name": "Joy_02",
+				"File": "../../motion/表情/Joy/Joy_02.exp3.json"
+			},
+			{
+				"Name": "Joy_03",
+				"File": "../../motion/表情/Joy/Joy_03.exp3.json"
+			},
+			{
+				"Name": "Joy_04",
+				"File": "../../motion/表情/Joy/Joy_04.exp3.json"
+			},
+			{
+				"Name": "Joy_05",
+				"File": "../../motion/表情/Joy/Joy_05.exp3.json"
+			},
+			{
+				"Name": "Joy_06",
+				"File": "../../motion/表情/Joy/Joy_06.exp3.json"
+			},
+			{
+				"Name": "Joy_07",
+				"File": "../../motion/表情/Joy/Joy_07.exp3.json"
+			},
+			{
+				"Name": "Joy_08",
+				"File": "../../motion/表情/Joy/Joy_08.exp3.json"
+			},
+			{
+				"Name": "Joy_09",
+				"File": "../../motion/表情/Joy/Joy_09.exp3.json"
+			},
+			{
+				"Name": "Joy_10",
+				"File": "../../motion/表情/Joy/Joy_10.exp3.json"
+			},
+			{
+				"Name": "Regret_01",
+				"File": "../../motion/表情/Regret/Regret_01.exp3.json"
+			},
+			{
+				"Name": "Regret_02",
+				"File": "../../motion/表情/Regret/Regret_02.exp3.json"
+			},
+			{
+				"Name": "Regret_03",
+				"File": "../../motion/表情/Regret/Regret_03.exp3.json"
+			},
+			{
+				"Name": "Regret_04",
+				"File": "../../motion/表情/Regret/Regret_04.exp3.json"
+			},
+			{
+				"Name": "Regret_05",
+				"File": "../../motion/表情/Regret/Regret_05.exp3.json"
+			},
+			{
+				"Name": "Regret_06",
+				"File": "../../motion/表情/Regret/Regret_06.exp3.json"
+			},
+			{
+				"Name": "Regret_07",
+				"File": "../../motion/表情/Regret/Regret_07.exp3.json"
+			},
+			{
+				"Name": "Regret_08",
+				"File": "../../motion/表情/Regret/Regret_08.exp3.json"
+			},
+			{
+				"Name": "Regret_09",
+				"File": "../../motion/表情/Regret/Regret_09.exp3.json"
+			},
+			{
+				"Name": "Regret_10",
+				"File": "../../motion/表情/Regret/Regret_10.exp3.json"
+			},
+			{
+				"Name": "Sad_01",
+				"File": "../../motion/表情/Sad/Sad_01.exp3.json"
+			},
+			{
+				"Name": "Sad_02",
+				"File": "../../motion/表情/Sad/Sad_02.exp3.json"
+			},
+			{
+				"Name": "Sad_03",
+				"File": "../../motion/表情/Sad/Sad_03.exp3.json"
+			},
+			{
+				"Name": "Sad_04",
+				"File": "../../motion/表情/Sad/Sad_04.exp3.json"
+			},
+			{
+				"Name": "Sad_05",
+				"File": "../../motion/表情/Sad/Sad_05.exp3.json"
+			},
+			{
+				"Name": "Sad_06",
+				"File": "../../motion/表情/Sad/Sad_06.exp3.json"
+			},
+			{
+				"Name": "Sad_07",
+				"File": "../../motion/表情/Sad/Sad_07.exp3.json"
+			},
+			{
+				"Name": "Sad_08",
+				"File": "../../motion/表情/Sad/Sad_08.exp3.json"
+			},
+			{
+				"Name": "Sad_09",
+				"File": "../../motion/表情/Sad/Sad_09.exp3.json"
+			},
+			{
+				"Name": "Sad_10",
+				"File": "../../motion/表情/Sad/Sad_10.exp3.json"
+			},
+			{
+				"Name": "Surprised_01",
+				"File": "../../motion/表情/Surprised/Surprised_01.exp3.json"
+			},
+			{
+				"Name": "Surprised_02",
+				"File": "../../motion/表情/Surprised/Surprised_02.exp3.json"
+			},
+			{
+				"Name": "Surprised_03",
+				"File": "../../motion/表情/Surprised/Surprised_03.exp3.json"
+			},
+			{
+				"Name": "Surprised_04",
+				"File": "../../motion/表情/Surprised/Surprised_04.exp3.json"
+			},
+			{
+				"Name": "Surprised_05",
+				"File": "../../motion/表情/Surprised/Surprised_05.exp3.json"
+			},
+			{
+				"Name": "Surprised_06",
+				"File": "../../motion/表情/Surprised/Surprised_06.exp3.json"
+			},
+			{
+				"Name": "Surprised_07",
+				"File": "../../motion/表情/Surprised/Surprised_07.exp3.json"
+			},
+			{
+				"Name": "Surprised_08",
+				"File": "../../motion/表情/Surprised/Surprised_08.exp3.json"
+			},
+			{
+				"Name": "Surprised_09",
+				"File": "../../motion/表情/Surprised/Surprised_09.exp3.json"
+			},
+			{
+				"Name": "Surprised_10",
+				"File": "../../motion/表情/Surprised/Surprised_10.exp3.json"
+			},
+			{
+				"Name": "Affiliation_01",
+				"File": "../../motion/表情/Affiliation/Affiliation_01.exp3.json"
+			},
+			{
+				"Name": "Affiliation_10",
+				"File": "../../motion/表情/Affiliation/Affiliation_10.exp3.json"
+			},
+			{
+				"Name": "Affiliation_05",
+				"File": "../../motion/表情/Affiliation/Affiliation_05.exp3.json"
+			},
+			{
+				"Name": "Affiliation_02",
+				"File": "../../motion/表情/Affiliation/Affiliation_02.exp3.json"
+			},
+			{
+				"Name": "Affiliation_03",
+				"File": "../../motion/表情/Affiliation/Affiliation_03.exp3.json"
+			},
+			{
+				"Name": "Affiliation_04",
+				"File": "../../motion/表情/Affiliation/Affiliation_04.exp3.json"
+			},
+			{
+				"Name": "Affiliation_06",
+				"File": "../../motion/表情/Affiliation/Affiliation_06.exp3.json"
+			},
+			{
+				"Name": "Affiliation_07",
+				"File": "../../motion/表情/Affiliation/Affiliation_07.exp3.json"
+			},
+			{
+				"Name": "Affiliation_08",
+				"File": "../../motion/表情/Affiliation/Affiliation_08.exp3.json"
+			},
+			{
+				"Name": "Affiliation_09",
+				"File": "../../motion/表情/Affiliation/Affiliation_09.exp3.json"
+			},
+			{
+				"Name": "Dominance_01",
+				"File": "../../motion/表情/Dominance/Dominance_01.exp3.json"
+			},
+			{
+				"Name": "Dominance_02",
+				"File": "../../motion/表情/Dominance/Dominance_02.exp3.json"
+			},
+			{
+				"Name": "Dominance_03",
+				"File": "../../motion/表情/Dominance/Dominance_03.exp3.json"
+			},
+			{
+				"Name": "Dominance_04",
+				"File": "../../motion/表情/Dominance/Dominance_04.exp3.json"
+			},
+			{
+				"Name": "Dominance_05",
+				"File": "../../motion/表情/Dominance/Dominance_05.exp3.json"
+			},
+			{
+				"Name": "Dominance_06",
+				"File": "../../motion/表情/Dominance/Dominance_06.exp3.json"
+			},
+			{
+				"Name": "Dominance_07",
+				"File": "../../motion/表情/Dominance/Dominance_07.exp3.json"
+			},
+			{
+				"Name": "Dominance_08",
+				"File": "../../motion/表情/Dominance/Dominance_08.exp3.json"
+			},
+			{
+				"Name": "Dominance_09",
+				"File": "../../motion/表情/Dominance/Dominance_09.exp3.json"
+			},
+			{
+				"Name": "Dominance_10",
+				"File": "../../motion/表情/Dominance/Dominance_10.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.7,
+	"FadeOutTime": 0.7,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen_Fear",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Fear",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Fear",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Fear",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Fear",
+			"Value": 0.822,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthWrinkle",
+			"Value": 0.289,
+			"Blend": "Add"
+		}
+	]
+}
