@@ -405,8 +405,8 @@
 				"File": "../../motion/表情/Dominance/Dominance_10.exp3.json"
 			},
 			{
-				"Name": "Natural",
-				"File": "../../motion/表情/Natural/Natural.exp3.json"
+				"Name": "Neutral",
+				"File": "../../motion/表情/Neutral/Neutral.exp3.json"
 			}
 		]
 	},
