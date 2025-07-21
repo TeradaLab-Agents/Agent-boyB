@@ -1,4 +1,4 @@
-let boyA_global_Blink_Flag = true;
+let boyB_global_Blink_Flag = true;
 
 (function webpackUniversalModuleDefinition(root, factory) {
     if (typeof exports === 'object' && typeof module === 'object')
@@ -60630,7 +60630,7 @@ let boyA_global_Blink_Flag = true;
                                         /*if (!motionUpdated) {
                                             internalModel.eyeBlink?.updateParameters(internalModel.coreModel, dt);
                                         }*/
-                                        if (boyA_global_Blink_Flag) {
+                                        if (boyB_global_Blink_Flag) {
                                             internalModel.eyeBlink?.updateParameters(internalModel.coreModel, dt);
                                         }
 
@@ -62811,52 +62811,52 @@ let boyA_global_Blink_Flag = true;
                     this.App_set_Joy = (num) => {
                         console.log("Forkの同期テスト：Joyを表出。。。。。。。。。。。。。。。。。。。。。。。？？？？？？？？？？？？？");
                         this.app?.change_Joy(num);
-                        boyA_global_Blink_Flag = false;
+                        boyB_global_Blink_Flag = false;
                     };
 
                     this.App_set_Sadness = (num) => {
                         this.app?.change_Sadness(num);
-                        boyA_global_Blink_Flag = false;
+                        boyB_global_Blink_Flag = false;
                     };
 
                     this.App_set_Anger = (num) => {
                         this.app?.change_Anger(num);
-                        boyA_global_Blink_Flag = false;
+                        boyB_global_Blink_Flag = false;
                     };
 
                     this.App_set_Regret = (num) => {
                         this.app?.change_Regret(num);
-                        boyA_global_Blink_Flag = false;
+                        boyB_global_Blink_Flag = false;
                     };
 
                     this.App_set_Surprised = (num) => {
                         this.app?.change_Surprised(num);
-                        boyA_global_Blink_Flag = false;
+                        boyB_global_Blink_Flag = false;
                     };
 
                     this.App_set_Affiliation = (num) => {
                         this.app?.change_Affiliation(num);
-                        boyA_global_Blink_Flag = false;
+                        boyB_global_Blink_Flag = false;
                     };
 
                     this.App_set_Dominance = (num) => {
                         this.app?.change_Dominance(num);
-                        boyA_global_Blink_Flag = false;
+                        boyB_global_Blink_Flag = false;
                     };
 
                     this.App_set_Fear = (num) => {
                         this.app?.change_Fear(num);
-                        boyA_global_Blink_Flag = false;
+                        boyB_global_Blink_Flag = false;
                     };
 
                     this.App_set_Disgust = (num) => {
                         this.app?.change_Disgust(num);
-                        boyA_global_Blink_Flag = false;
+                        boyB_global_Blink_Flag = false;
                     };
 
                     this.App_set_Neutral = (num) => {
                         this.app?.change_Neutral(num);
-                        boyA_global_Blink_Flag = true;
+                        boyB_global_Blink_Flag = true;
                     };
 
                     /*
