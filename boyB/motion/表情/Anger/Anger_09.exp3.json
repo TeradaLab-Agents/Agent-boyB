@@ -15,12 +15,12 @@
 		},
 		{
 			"Id": "ParamBrowL_Anger",
-			"Value": 1,
+			"Value": 0.9,
 			"Blend": "Add"
 		},
 		{
 			"Id": "ParamBrowR_Anger",
-			"Value": 1,
+			"Value": 0.9,
 			"Blend": "Add"
 		},
 		{
